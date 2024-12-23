@@ -1,3 +1,3 @@
 ```cmd
-Usage: portkill <port>
+Usage: portinfo <port>
 ```
