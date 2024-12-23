@@ -1,2 +1,3 @@
-# portinfo
-Usage: portinfo &lt;port>
+```cmd
+Usage: portkill <port>
+```
